@@ -4,11 +4,11 @@
 
 # Features
 
-##Octrees
+## Octrees
 
 Partition spaces when provided instances of objects based on octant population goals and max depth settings.
 
-##Raycasts
+## Raycasts
 
 Given an origin and direction, Raycasts can be used on Octrees to perform intersection checks over many different instances of objects while also avoiding some unnecessary intersection checks. Returns hit information:
 - Hit Result
